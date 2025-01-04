@@ -1,2 +1,4 @@
 # Pro.2-BasicReact
-react basic project - Contact US page
+react basic project - Contact US page.
+Author - Vatika Malwa
+
